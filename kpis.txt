@@ -1,0 +1,37 @@
+1) System Maintenance & Troubleshooting
+    *Issue Resolution Time: Time taken to diagnose and resolve system-related issues.
+    *Ticket Closure Rate: Number of support tickets resolved within the given timeframe.
+    *First Attempt Fix Rate: Percentage of issues resolved on the first attempt.
+   * System Uptime Monitoring: Assisting in maintaining system uptime and reliability.
+
+2. Hardware & Software Management
+    *Device Setup Efficiency: Time taken to configure and deploy workstations, laptops, and other IT assets.
+    *Software Installation & Updates: Ensuring timely installation and updates of OS, antivirus, and business applications.
+    *Asset Inventory Accuracy: Keeping records of IT assets up to date.
+
+3) User Support & Training
+   *Response Time to User Requests: Speed and efficiency in addressing employee IT issues.
+   *User Satisfaction Rate: Feedback from employees regarding IT support and troubleshooting.
+   *Documentation & Knowledge Sharing: Creating guides and documentation for common issues and troubleshooting steps.
+
+4) Network & Security Compliance
+    *System & Network Monitoring: Assisting in monitoring servers, networks, and Wi-Fi performance.
+    *Patch & Update Compliance: Ensuring systems are updated with security patches.
+    *Access Management: Managing user accounts, permissions, and security policies.
+
+5) Backup & Recovery Assistance
+    *Backup Verification Success Rate: Ensuring scheduled backups are completed without errors.
+    *Recovery Time Objective (RTO): Assisting in timely restoration of data in case of failures.
+    *Adherence to Backup Policies: Following the organization's backup schedule and data retention policie
+
+6) IT Project Support & Learning
+    *Participation in IT Deployments: Assisting in deploying software, hardware, and security solutions.
+    *Learning & Skill Development: Tracking completed training sessions and certifications.
+    *Automation & Scripting Contributions: Helping automate repetitive tasks to improve efficiency.
+
+These KPIs define my learning objectives, responsibilities, and performance benchmarks, ensuring efficiency, 
+reliability, and continuous improvement in IT system administration.
+
+Best Regards,
+viresh
+IT System Administrator Intern
